@@ -1,3 +1,4 @@
 Git練習ggg
 編集官僚
 0909
+git remove
